@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SimpleToolCollection</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Frank.L</Authors>
+    <Description>这是一个简单的工具合集</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Brawns/SimpleToolCollection.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Brawns/SimpleToolCollection.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
